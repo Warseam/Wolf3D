@@ -15,13 +15,13 @@ For Epitech students :
 
 Ce wolf3d ne passe pas tous les tests :
 
-Put Pixel: 100%
+    -Put Pixel: 100%
 
 
-Draw Line: 75%
+    -Draw Line: 75%
 
 
-Move Forward: 100%
+    -Move Forward: 100%
 
 
-Raycasting: 62%
+    -Raycasting: 62%
